@@ -1,0 +1,20 @@
+<Tecnica Tipo="DTW">
+  <Gestos>
+    <Gesto Nombre="Circulo" Size="19" Path="Entrenamiento\Circulo\gesto.txt">
+      <ParteCuerpo Nombre="LeftHand" />
+      <Costo Minimo="2.23528981208801" Maximo="4.69306993484497" Mediana="3.27742433547974" Promedio="3.46417987346649" />
+    </Gesto>
+    <Gesto Nombre="Estiramiento" Size="13" Path="Entrenamiento\Estiramiento\gesto.txt">
+      <ParteCuerpo Nombre="LeftFoot" />
+      <Costo Minimo="1.0952365398407" Maximo="9.52082443237305" Mediana="2.59390902519226" Promedio="5.30803048610687" />
+    </Gesto>
+    <Gesto Nombre="Nadar" Size="18" Path="Entrenamiento\Nadar\gesto.txt">
+      <ParteCuerpo Nombre="LeftHand" />
+      <Costo Minimo="2.51344847679138" Maximo="9.27327632904053" Mediana="4.89829778671265" Promedio="5.89336240291595" />
+    </Gesto>
+    <Gesto Nombre="Smash" Size="18" Path="Entrenamiento\Smash\gesto.txt">
+      <ParteCuerpo Nombre="RightHand" />
+      <Costo Minimo="3.7172372341156" Maximo="10.8299751281738" Mediana="6.4306960105896" Promedio="7.27360618114471" />
+    </Gesto>
+  </Gestos>
+</Tecnica>

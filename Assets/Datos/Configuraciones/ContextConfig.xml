@@ -1,0 +1,11 @@
+<Contexto>
+  <RelativePathAnimaciones Path="Assets\Datos\Animaciones\" />
+  <RelativePathTecnicas Path="Assets\Datos\Configuraciones\Tecnicas\" />
+  <RelativePathRestricciones Path="Assets\Datos\Configuraciones\Restricciones\" />
+  <RelativePathGestos Path="Assets\Datos\Configuraciones\Gestos\" />
+  <AreaDeMovimiento>
+    <DimensionDelCubo LongitudX="3" LongitudY="3" LongitudZ="2" DistanciaAlDispositivo="2" />
+    <TamanioDeLosSubcubos Precision="0" />
+  </AreaDeMovimiento>
+  <Buffer Capacidad="100" TiempoDeRefresco="33" />
+</Contexto>

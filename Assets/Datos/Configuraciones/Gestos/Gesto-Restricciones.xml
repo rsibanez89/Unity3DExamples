@@ -1,0 +1,16 @@
+<Gesto Nombre="Gesto-Restricciones" CantFrames="20">
+  <Paths>
+    <PathRestricciones>
+      <Restriccion Path="Restricciones_Gesto-Restricciones_0" Indice="0" />
+      <Restriccion Path="Restricciones_Gesto-Restricciones_1" Indice="1" />
+      <Restriccion Path="Restricciones_Gesto-Restricciones_2" Indice="2" />
+      <Restriccion Path="Restricciones_Gesto-Restricciones_3" Indice="3" />
+      <Restriccion Path="Restricciones_Gesto-Restricciones_4" Indice="4" />
+      <Restriccion Path="Restricciones_Gesto-Restricciones_5" Indice="5" />
+      <Restriccion Path="Restricciones_Gesto-Restricciones_6" Indice="6" />
+      <Restriccion Path="Restricciones_Gesto-Restricciones_7" Indice="7" />
+      <Restriccion Path="Restricciones_Gesto-Restricciones_8" Indice="8" />
+      <Restriccion Path="Restricciones_Gesto-Restricciones_9" Indice="9" />
+    </PathRestricciones>
+  </Paths>
+</Gesto>

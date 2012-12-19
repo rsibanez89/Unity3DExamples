@@ -1,0 +1,3 @@
+<RestriccionesEstaticas Nombre="SinNombre">
+  <Restriccion Tipo="CentradoZ" ParteCuerpo1="Head" ParteCuerpo2="LeftElbow" Precision="0.1" />
+</RestriccionesEstaticas>

@@ -1,0 +1,9 @@
+<Gesto Nombre="Gesto-DTW-Restricciones" CantFrames="20">
+  <Paths>
+    <PathRestricciones>
+      <Restriccion Path="Restricciones_Gesto-DTW-Restricciones_0" Indice="0" />
+      <Restriccion Path="Restricciones_Gesto-DTW-Restricciones_1" Indice="1" />
+    </PathRestricciones>
+    <NombreTecnica Value="Autogenerada_Tecnica_Gesto-DTW-Restricciones" />
+  </Paths>
+</Gesto>

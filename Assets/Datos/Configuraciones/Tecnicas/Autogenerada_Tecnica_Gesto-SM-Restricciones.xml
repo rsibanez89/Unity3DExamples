@@ -1,0 +1,17 @@
+<Tecnica Tipo="StringMatching">
+  <Precision Value="3" />
+  <Gestos>
+    <Gesto Nombre="Circulo" Path="Entrenamiento\Circulo\">
+      <ParteCuerpo Nombre="LeftHand" />
+    </Gesto>
+    <Gesto Nombre="Estiramiento" Path="Entrenamiento\Estiramiento\">
+      <ParteCuerpo Nombre="LeftFoot" />
+    </Gesto>
+    <Gesto Nombre="Nadar" Path="Entrenamiento\Nadar\">
+      <ParteCuerpo Nombre="LeftHand" />
+    </Gesto>
+    <Gesto Nombre="Smash" Path="Entrenamiento\Smash\">
+      <ParteCuerpo Nombre="RightHand" />
+    </Gesto>
+  </Gestos>
+</Tecnica>

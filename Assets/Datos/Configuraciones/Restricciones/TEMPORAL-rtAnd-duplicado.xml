@@ -1,0 +1,10 @@
+<Restricciones>
+  <RestriccionTemporal ID="" Tipo="Y" FrameInicial="0" FrameFinal="0">
+    <RestriccionTemporal ID="rtSimple" Tipo="Simple" FrameInicial="2" FrameFinal="10">
+      <RestriccionesEstaticas Nombre="SinNombre">
+        <Restriccion Tipo="Sobre" ParteCuerpo1="Head" ParteCuerpo2="LeftElbow" Precision="0.1" />
+      </RestriccionesEstaticas>
+    </RestriccionTemporal>
+    <RestriccionTemporal ID="rtDebajo" Tipo="Debajo" FrameInicial="2" FrameFinal="10" ParteCuerpo="Head" />
+  </RestriccionTemporal>
+</Restricciones>
