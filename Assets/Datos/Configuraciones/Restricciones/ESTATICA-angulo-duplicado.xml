@@ -1,3 +1,0 @@
-<RestriccionesEstaticas Nombre="SinNombre">
-  <Restriccion Tipo="Angulo" ParteCuerpo1="Head" ParteCuerpo2="LeftElbow" Precision="0.1" ParteCuerpo3="LeftHand" Angulo="5" />
-</RestriccionesEstaticas>

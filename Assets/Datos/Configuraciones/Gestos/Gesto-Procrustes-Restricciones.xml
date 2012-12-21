@@ -1,9 +1,0 @@
-<Gesto Nombre="Gesto-Procrustes-Restricciones" CantFrames="20">
-  <Paths>
-    <PathRestricciones>
-      <Restriccion Path="Restricciones_Gesto-Procrustes-Restricciones_2" Indice="2" />
-      <Restriccion Path="Restricciones_Gesto-Procrustes-Restricciones_3" Indice="3" />
-    </PathRestricciones>
-    <NombreTecnica Value="Autogenerada_Tecnica_Gesto-Procrustes-Restricciones" />
-  </Paths>
-</Gesto>

@@ -1,6 +1,0 @@
-<RestriccionesEstaticas Nombre="SinNombre">
-  <Restriccion Tipo="O">
-    <Restriccion Tipo="CentradoX" ParteCuerpo1="Head" ParteCuerpo2="LeftElbow" Precision="0.1" />
-    <Restriccion Tipo="CentradoY" ParteCuerpo1="Head" ParteCuerpo2="LeftElbow" Precision="0.1" />
-  </Restriccion>
-</RestriccionesEstaticas>

@@ -1,3 +1,0 @@
-<RestriccionesEstaticas Nombre="SinNombre">
-  <Restriccion Tipo="Distancia" ParteCuerpo1="Head" ParteCuerpo2="LeftElbow" Precision="0.1" Distancia="5" />
-</RestriccionesEstaticas>
